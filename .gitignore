@@ -1,2 +1,4 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+.vision_transformer
+*/.vision_transformer/*
